@@ -71,3 +71,9 @@ To showcase the game UI and features, add your screenshots to the `screenshots/`
 ## Notes
 - Make sure your Flutter version is up to date for best compatibility.
 - All assets (SVG, PNGs) are included in the `lib/assets/` directory and referenced in `pubspec.yaml`.
+
+## GitHub Repository
+
+You can find the source code and latest updates on GitHub:
+
+[https://github.com/antonyjm462/Exercise_3](https://github.com/antonyjm462/Exercise_3.git)
