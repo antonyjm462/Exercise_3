@@ -67,6 +67,10 @@ To showcase the game UI and features, add your screenshots to the `screenshots/`
   ![Level Up](screenshots/2.png)
 - **Score Display:**
   ![Score Display](screenshots/3.png)
+- **Other display:**
+  ![Score Display](screenshots/4.png)
+  ![Score Display](screenshots/5.png)
+  ![Score Display](screenshots/6.png)
 
 ## Notes
 - Make sure your Flutter version is up to date for best compatibility.
